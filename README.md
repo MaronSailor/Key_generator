@@ -7,10 +7,10 @@ For example:
   2. they will be sorted as F16192P[005] F59538U[003] R10708N[001] U77536P[004] Y61595I[002]
   3. user writes in ID or the key he wants to find. F.e. R10708N[001] and because of this he writes 001 or R10708N to find it.
   4. user gets information about this key:
-    4.1.  SID (Starting_ID) - where the key was before sorting
-    4.2.  CID (Current_ID)  - where the key is placed now     
-    4.3.  LINE              - line where the key is now        
-    4.4.  ROW               - row where the key is now
+     4.1.  SID (Starting_ID) - where the key was before sorting
+     4.2.  CID (Current_ID)  - where the key is placed now
+     4.3.  LINE              - line where the key is now
+     4.4.  ROW               - row where the key is now
 
 So fot R10708N[001] the information will be SID - 001, CID - 003, LINE - 1, ROW - 3
 
