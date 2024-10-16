@@ -1,0 +1,14 @@
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\bin\Debug\net8.0\Key_Generator.exe
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\bin\Debug\net8.0\Key_Generator.deps.json
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\bin\Debug\net8.0\Key_Generator.runtimeconfig.json
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\bin\Debug\net8.0\Key_Generator.dll
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\bin\Debug\net8.0\Key_Generator.pdb
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.AssemblyInfoInputs.cache
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.AssemblyInfo.cs
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.dll
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\refint\Key_Generator.dll
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.pdb
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\Key_Generator.genruntimeconfig.cache
+C:\Users\Maron_Sailor\Desktop\CPP\MyCodes\Pointers_Study\Key_Generator\obj\Debug\net8.0\ref\Key_Generator.dll
